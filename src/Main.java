@@ -10,7 +10,7 @@ public class Main {
 
     }
     private static void method1(){
-
+        System.out.println("Hello");
     }
     private static void method2(){
         System.out.println("Hello");
