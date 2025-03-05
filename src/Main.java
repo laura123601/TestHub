@@ -13,6 +13,7 @@ public class Main {
         System.out.println("Hello");
     }
     private static void method2(){
+        System.out.println("Hello");
 
     }
     private static void method3(){
